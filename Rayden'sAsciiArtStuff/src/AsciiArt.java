@@ -13,7 +13,7 @@ public class AsciiArt {
         }
 
         while (true) {
-            for (int x = 0; x < WIDTH - ROCKET_WIDTH; x=x+12) {
+            for (int x = 0; x < WIDTH - ROCKET_WIDTH; x=x+6) {
                 if (rand.nextDouble() < 0.01) {
                     char[][] img;
                     if (rand.nextDouble() < 0.5)
