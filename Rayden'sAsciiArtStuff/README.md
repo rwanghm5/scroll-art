@@ -8,7 +8,7 @@ I was quite literally inspired by nothing so I just started making a shape that 
 
 ## 1. Rocket drawing
 
-I drew this:
+I drew this 16x11 drawing of a rocketship:
 
 
      /\    
@@ -38,7 +38,7 @@ I used this change to add a double booster design on the bottom and use the __ a
 
 ## 2. Sword drawing
 
-I also drew this:
+I also drew this smaller 6x13
 
   /\
  (  )
