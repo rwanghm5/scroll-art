@@ -61,3 +61,6 @@ Process:
 I started the second shape by trying to think of another shape. The top parenthesis were very cool in my mind so I just started creating it for fun. Turned out pretty well so I kept it and called it a sword. I added the lines in the middle in order to add some texture to the sword.
 
 (Citation Points: 1)
+
+
+I almost forgot but thanks to Ms. Feng for the base structure of AsciiArt.java :)
