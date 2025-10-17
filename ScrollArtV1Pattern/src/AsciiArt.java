@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class ScrollArtV1 {
+public class AsciiArt {
     static final int WIDTH = getTerminalWidth() - 1;
     static final int ROCKET_WIDTH = 12;
     static final int ROCKET_HEIGHT = 16;
@@ -75,6 +75,8 @@ public class ScrollArtV1 {
         img[5][1] = '|';
         img[5][10] = '|';
         img[6][1] = '|';
+        img[6][5] = 'R';
+        img[6][6] = 'W';
         img[6][10] = '|';
         img[7][1] = '|';
         img[7][10] = '|';
@@ -133,8 +135,8 @@ public class ScrollArtV1 {
         img[5][3] = '~';
         img[5][5] = '|';
         img[6][0] = '|';
-        img[6][2] = '~';
-        img[6][3] = '~';
+        img[6][2] = 'R';
+        img[6][3] = 'W';
         img[6][5] = '|';
         img[7][0] = '|';
         img[7][2] = '~';

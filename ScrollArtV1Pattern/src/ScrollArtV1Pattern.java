@@ -15,7 +15,7 @@ public class ScrollArtV1Pattern {
     public static void main(String[] args) throws InterruptedException {
 
         xCols[0] = 0; // start first pattern at left edge
-        dirs[0] = 1; // start moving right
+        dirs[0] = 3; // start moving right
         symbols[0] = "*"; // default symbol
         for (int i = 1; i < NUM_PATTERNS; i++) {
             xCols[i] = null;

@@ -25,6 +25,7 @@ I decided to make a 8x6 carrot after I made this bunny rocket. Here is the carro
    /r )
   >r./
  / '  
+
 c_/   if
 ```
 
@@ -35,3 +36,60 @@ This carrot came from my head. I wrote out the carrot on an index card first. On
 Then I input each individual character into its 2D location into Image.java, in the `getImage()` function. 
 
 (Citation Points: 1)
+
+This is my ascii art:
+
+Both of the following drawings are in 'AsciiArt.java'
+I was quite literally inspired by nothing so I just started making a shape that I thought fit with charecters like / and |
+
+
+## 1. Rocket drawing
+
+I drew this:
+
+
+     /\    
+    /  \ 
+   /    \ 
+  /      \
+ |        |
+ |        |
+ |        |
+ |        |
+ |        |
+ |        |
+ |        |
+ \        /
+  \      /
+   ||__||
+   ||  ||
+   ||  ||
+
+Process:
+
+I just thought of a shape that worked really well as a cone and a rocket came to mind
+Originally, it was pretty skinny but I ended up making another ascii art that was a little too similar and had to make the rocket wider.
+I used this change to add a double booster design on the bottom and use the __ as well. 
+
+## 2. Sword drawing
+
+I also drew this:
+
+  /\
+ (  )
+ /  \
+| ~~ |
+| ~~ |
+| ~~ |
+| ~~ |
+| ~~ |
+( ~~ )
+\ ~~ /
+ |  |
+ |  |
+ \  /
+  ||
+  
+
+Process
+
