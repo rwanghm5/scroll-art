@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class AsciiArt {
+public class MyAsciiArt {
     static final int WIDTH = getTerminalWidth() - 1;
     static final int ROCKET_WIDTH = 12;
     static final int ROCKET_HEIGHT = 16;
